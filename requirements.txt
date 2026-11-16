@@ -1,8 +1,0 @@
-
-# Superstore Retail Sales EDA
-# Core data analysis and visualization libraries
-
-pandas
-numpy
-matplotlib
-seaborn
